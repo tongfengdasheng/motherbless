@@ -11,6 +11,7 @@
 
 * [作者简介](material/author.md)
 * [内容简介](material/intro.md)
+* [背景设定](material/background.md)
 * [人物介绍](material/roles.md)
 * [分段标题](material/title.md)
 * [台词统计](material/stats.md)

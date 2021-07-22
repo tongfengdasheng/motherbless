@@ -1,11 +1,11 @@
 # 母亲在上
-——2098 末日题材科幻神话英雄史诗电影文学剧本
+——2098 末日题材科幻神话浪漫主义英雄史诗电影文学剧本
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 
 ## 阅读正文 main.md
 
-[点此阅读正文](main.md)：创作中。
+[点此阅读正文](main.md)：一稿完成。
 
 ## 其他文档
 
@@ -21,21 +21,12 @@
 采用 markdown 文档格式，可用记事本或任意文本编辑器打开，也有专门的 markdown
 编辑器。笔者使用 vim 编辑，顺便针对剧本格式定制高亮着色。
 
-![vim截图1](material/screenshot1.PNG)
-![vim截图2](material/screenshot2.PNG)
-
 ## 版权声明：CCBY-NC-ND 4.0
 
 主要参考 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享 署名-非商业性使用-禁止演绎 4.0 国际 许可协议</a>。
 
 文学剧本的所有文字开源，任何人可以自由阅读、下载、批评，但不允许在未经授权的情
 况下进行商业改编、传播等。
-
-* 欢迎 github 站内 star, fork, pr 等
-* 不允许转载至站外，但可以传播链接：
-* 高校学生非盈利性质的话剧/戏剧社团，可免费授权进行再改编、演出，只保留知情权
-  与署名权。
-* 商业影视化授权另议。
 
 ## 批评与贡献
 

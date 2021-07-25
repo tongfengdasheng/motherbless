@@ -15,6 +15,7 @@
 * [人物介绍](material/roles.md)
 * [分段标题](title.md)
 * [台词统计](stats.md)
+* [笔者写作纪略](material/write_note.md)
 
 ## 文档编辑
 
@@ -30,8 +31,8 @@
 
 ## 批评与贡献
 
-可在本站“Issues”提 issues 。请用中文讨论文学话题。除非有意愿贡献台词翻译的请
-fork & pr 。
+可在本站讨论区 [Discussions](https: //github.com/lymslive/motherbless/discussions)
+留言，请用中文讨论文学话题。也可当作正常仓库使用 fork/Issues 功能。
 
 没有且不想注册 github 帐号的朋友，可给作者发邮件： 403708621@qq.com ，但该 QQ
 号已不常用，不一定能响应加 qq 好友。

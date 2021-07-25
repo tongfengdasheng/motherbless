@@ -5,7 +5,7 @@
 
 ## 阅读正文 main.md
 
-[点此阅读正文](main.md)：一稿完成。
+[点此阅读正文](main.md)：一稿完成，v1.01 修改中。
 
 ## 其他文档
 
@@ -13,8 +13,8 @@
 * [内容简介](material/intro.md)
 * [背景设定](material/background.md)
 * [人物介绍](material/roles.md)
-* [分段标题](material/title.md)
-* [台词统计](material/stats.md)
+* [分段标题](title.md)
+* [台词统计](stats.md)
 
 ## 文档编辑
 

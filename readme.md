@@ -5,7 +5,7 @@
 
 ## 阅读正文 main.md
 
-[点此阅读正文](main.md)：一稿完成，v1.01 修改中。
+[点此阅读正文](https://lymslive.github.io/motherbless/main.html) 或原始文档 [main.md](main.md) ：一稿完成，v1.01 修改中。
 
 ## 其他文档
 
@@ -21,6 +21,9 @@
 
 采用 markdown 文档格式，可用记事本或任意文本编辑器打开，也有专门的 markdown
 编辑器。笔者使用 vim 编辑，顺便针对剧本格式定制高亮着色。
+
+mardown 文档可在浏览器上直接阅读。不过正文也参考 vim 的 `:TOhtml` 输出剧本格式
+的静态 html 。
 
 ## 版权声明：CCBY-NC-ND 4.0
 
